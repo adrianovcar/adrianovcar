@@ -4,8 +4,8 @@
 - 🌱 I’m currently learning **Kubernetes and Solidity / Blockchain**
 - 👯 I’m looking to collaborate on **Blockchain projects**
 - 🤔 I’m looking for help with **JUCE (mobile) SDK implementation**
-- 💬 Ask me about **Blockchain and Craft Beer**
-- 📫 How to reach me: [@adrianovc](https://twitter.com/adrianovc)
+- 💬 Ask me about **Create a Startup**
+- 📫 How to reach me: https://www.linkedin.com/in/adriano-carrijo
 - ⚡ Fun fact: I always feel dead after a [Carolina Reaper](https://en.wikipedia.org/wiki/Carolina_Reaper)
 
 ⚙️ GitHub Analytics
