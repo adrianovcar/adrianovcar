@@ -1,4 +1,4 @@
-###Adriano Carrijo 
+##Adriano Carrijo 
   
 _BIO: Working for the last 14 years as a serial entrepreneur, I launched 5 Startups: Kipi Mobile, BodyAdvance, Sindik, Moblues and "Pronto Casei" (Wedding platform)._
 
