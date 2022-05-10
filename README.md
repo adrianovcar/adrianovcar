@@ -1,7 +1,10 @@
-## Adriano Carrijo <a href="https://www.linkedin.com/in/adriano-carrijo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Profile"></a>
+## Adriano Carrijo
   
 _BIO: Working for the last 14 years as a serial entrepreneur, I launched 5 Startups: Kipi Mobile, BodyAdvance, Sindik, Moblues and "Pronto Casei" (Wedding platform)._
 
+<a href="https://www.linkedin.com/in/adriano-carrijo/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Profile" height="20px">
+</a>
 ---
 
 - 🔭 I’m currently working on **Kovver App as CTO and developer**
