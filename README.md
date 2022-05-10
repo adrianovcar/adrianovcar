@@ -1,4 +1,13 @@
-### Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="20px" alt="hi there">
+<div style="display: flex; justify-content: space-between">
+    <div>
+        <h2 style="margin: 0; padding: 0;"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" alt="hi there"> Adriano Carrijo</h2>
+    </div>
+    <div>
+        <a href="https://www.linkedin.com/in/adriano-carrijo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Profile"></a>
+    </div>
+</div>
+
+`BIO: Working for the last 14 years as a serial entrepreneur, I launched 5 Startups: Kipi Mobile, BodyAdvance, Sindik, Moblues and "Pronto Casei" (Wedding platform).`
 
 - 🔭 I’m currently working on **Kovver App as CTO and developer**
 - 🌱 I’m currently learning **Kubernetes and Solidity / Blockchain**
