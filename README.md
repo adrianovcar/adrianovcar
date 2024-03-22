@@ -10,13 +10,18 @@ _BIO: Working for the last 16 years as a serial entrepreneur, I launched 5 Start
 - 📫 How to reach me: https://www.linkedin.com/in/adriano-carrijo
 - ⚡ Fun fact: I always feel dead after a [Carolina Reaper](https://en.wikipedia.org/wiki/Carolina_Reaper)
 
-⚙️ GitHub Analytics
+## ⚙️ My GitHub Analytics
 
-<ul>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height="140px" src="https://github-readme-stats.vercel.app/api?username=adrianovcar&count_private=true&show_icons=true&theme=dracula&custom_title=My GitHub Stats" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianovcar&langs_count=8&layout=compact&theme=dracula" />
-    </a>
-</ul>
+<div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianovcar&langs_count=8&layout=compact&theme=dracula&count_private=true&show_icons=true" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=adrianovcar&theme=dracula&count_private=true&rank_icon=percentile&show_icons=true&include_all_commits=true" />
+  </a>
+  
+</div>
+
+## 🔥 Meet my best practices
+
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=75b9772066417eaac7fdebb5091748a6&show_owner=true&theme=dracula)](https://gist.github.com/adrianovcar/75b9772066417eaac7fdebb5091748a6)
