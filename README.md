@@ -14,14 +14,14 @@ _BIO: Working for the last 16 years as a serial entrepreneur, I launched 5 Start
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianovcar&langs_count=8&layout=compact&theme=dracula&count_private=true&show_icons=true" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianovcar&langs_count=8&title_color=b2fbbe&layout=compact&theme=dracula&count_private=true&show_icons=true" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=adrianovcar&theme=dracula&count_private=true&rank_icon=percentile&show_icons=true&include_all_commits=true" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=adrianovcar&theme=dracula&count_private=true&rank_icon=percentile&show_icons=true&include_all_commits=true&title_color=b2fbbe" />
   </a>
   
 </div>
 
 ## 🔥 Meet my best practices
 
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=75b9772066417eaac7fdebb5091748a6&show_owner=true&theme=dracula)](https://gist.github.com/adrianovcar/75b9772066417eaac7fdebb5091748a6)
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=75b9772066417eaac7fdebb5091748a6&show_owner=true&theme=dracula&title_color=b2fbbe)](https://gist.github.com/adrianovcar/75b9772066417eaac7fdebb5091748a6)
