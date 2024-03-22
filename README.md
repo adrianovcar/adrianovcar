@@ -22,6 +22,6 @@ _BIO: Working for the last 16 years as a serial entrepreneur, I launched 5 Start
   
 </div>
 
-## 🔥 Meet my best practices
+## 🔥 Discover my best practices
 
 [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=75b9772066417eaac7fdebb5091748a6&show_owner=true&theme=dracula&title_color=b2fbbe)](https://gist.github.com/adrianovcar/75b9772066417eaac7fdebb5091748a6)
