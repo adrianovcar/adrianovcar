@@ -1,12 +1,11 @@
 ## Adriano Carrijo
   
-_BIO: Working for the last 14 years as a serial entrepreneur, I launched 5 Startups: Kipi Mobile, BodyAdvance, Sindik, Moblues and "Pronto Casei" (Wedding platform)._
+_BIO: Working for the last 16 years as a serial entrepreneur, I launched 5 Startups: Kipi Mobile, BodyAdvance, Sindik, Moblues, and "Pronto Casei" (Wedding platform)._
 
 
-- 🔭 I’m currently working on **Kovver App as CTO and developer**
-- 🌱 I’m currently learning **Kubernetes and Solidity / Blockchain**
-- 👯 I’m looking to collaborate on **Blockchain projects**
-- 🤔 I’m looking for help with **JUCE (mobile) SDK implementation**
+- 🔭 I’m the founder of **Moblues Code Studio**
+- 👯 I’m the creator of the open source [Laravel Eden](https://github.com/Moblues-Studio/laravel-eden)
+- 🌱 I’m currently learning **Blockchain** and **AI Mastering**
 - 💬 Ask me about **Create a Startup**
 - 📫 How to reach me: https://www.linkedin.com/in/adriano-carrijo
 - ⚡ Fun fact: I always feel dead after a [Carolina Reaper](https://en.wikipedia.org/wiki/Carolina_Reaper)
